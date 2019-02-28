@@ -2,4 +2,6 @@
     <string name="app_name">Android18Feb</string>
     <string name="username">userName</string>
     <string name="login">Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_number">mobile NUmber</string>
 </resources>

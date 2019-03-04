@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/kotlindemo" />
             <option value="$PROJECT_DIR$/layouts" />
+            <option value="$PROJECT_DIR$/listinkotlin" />
+            <option value="$PROJECT_DIR$/listview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
